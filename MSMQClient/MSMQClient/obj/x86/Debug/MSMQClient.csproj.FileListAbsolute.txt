@@ -1,0 +1,39 @@
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\obj\x86\Debug\MSMQ.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\bin\Debug\MSMQClient.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.exe
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\bin\Debug\MSMQClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\obj\x86\Debug\MSMQ.frmMain.resources
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.Properties.Resources.resources
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.GenerateResource.Cache
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\MSMQClient.pdb
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\mscorlib.dll
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\sortkey.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\sorttbls.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\big5.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\bopomofo.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\ksc.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\prc.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\prcp.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\xjis.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\normidna.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\normnfc.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\normnfd.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\normnfkc.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\normnfkd.nlp
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.AssemblyReference.cache
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQ.frmMain.resources
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.Properties.Resources.resources
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.GenerateResource.cache
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.CopyComplete
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.exe
+C:\Users\Dmitriy Makarov\Desktop\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.pdb
